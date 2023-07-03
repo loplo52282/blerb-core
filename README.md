@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Allow Annotator PIL.Image inputs (#8397)
