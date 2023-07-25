@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
