@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add TorchScript Docs Integrations Page (#8501)
