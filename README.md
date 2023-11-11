@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Python refactorings and simplifications (#7549)
