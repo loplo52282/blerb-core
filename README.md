@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
