@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add quantization support to TensorFlow.js converter (#7008)
